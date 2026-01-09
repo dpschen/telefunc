@@ -16,9 +16,9 @@
   "dependencies": {
     "@cloudflare/kv-asset-handler": "~0.2.0",
     "@cloudflare/wrangler": "^1.19.8",
-    "express": "^4.17.2",
+    "express": "^4.20.0",
     "miniflare": "^2.3.0",
     "telefunc": "0.1.72",
-    "vite": "^4.3.9"
+    "vite": "^4.5.14"
   }
 }
